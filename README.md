@@ -1,8 +1,10 @@
+A Reminder Application using JavaScript, HTML, and SCSS
+
 ### Full Name : Kruthi Shankar Hegde
 ### NUID : 002618976
 ### Email id : hegde.kru@northeastern.edu
 
-## Tenth assignment for INFO6150, where we are Building a Reminder Application using JavaScript, HTML, and SCSS
+## A Reminder Application using JavaScript, HTML, and SCSS
 
 #### React Reminder app
 
